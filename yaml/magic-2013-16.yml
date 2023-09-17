@@ -1,0 +1,115 @@
+---
+object: card
+id: ddae4f7a-525c-4306-81b5-b0991840a11e
+oracle_id: 2d91cf05-fc39-4d76-8c95-62738b57e0a0
+multiverse_ids:
+- 259673
+mtgo_id: 45600
+mtgo_foil_id: 45601
+tcgplayer_id: 59916
+cardmarket_id: 257010
+name: Griffin Protector
+lang: en
+released_at: '2012-07-13'
+uri: https://api.scryfall.com/cards/ddae4f7a-525c-4306-81b5-b0991840a11e
+scryfall_uri: https://scryfall.com/card/m13/16/griffin-protector?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.jpg?1562560928
+  normal: https://cards.scryfall.io/normal/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.jpg?1562560928
+  large: https://cards.scryfall.io/large/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.jpg?1562560928
+  png: https://cards.scryfall.io/png/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.png?1562560928
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.jpg?1562560928
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddae4f7a-525c-4306-81b5-b0991840a11e.jpg?1562560928
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Griffin
+oracle_text: |-
+  Flying
+  Whenever another creature enters the battlefield under your control, Griffin Protector gets +1/+1 until end of turn.
+power: '2'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set: m13
+set_name: Magic 2013
+set_type: core
+set_uri: https://api.scryfall.com/sets/f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddae4f7a-525c-4306-81b5-b0991840a11e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2d91cf05-fc39-4d76-8c95-62738b57e0a0&unique=prints
+collector_number: '16'
+digital: false
+rarity: common
+flavor_text: The drums of war stir the hearts of all who fight for righteousness.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: fd06798f-49b0-4ed7-8695-184dd54bdd60
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15086
+prices:
+  usd: '0.05'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.35'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259673
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Griffin+Protector&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Griffin+Protector&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Griffin+Protector
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59916?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Griffin+Protector&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/45600?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,21 @@
+---
+object: set
+id: f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+code: m13
+mtgo_code: m13
+arena_code: m13
+tcgplayer_id: 364
+name: Magic 2013
+uri: https://api.scryfall.com/sets/f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+scryfall_uri: https://scryfall.com/sets/m13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Am13&unique=prints
+released_at: '2012-07-13'
+set_type: core
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/m13.svg?1694404800

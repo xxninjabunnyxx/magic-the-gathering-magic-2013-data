@@ -1,0 +1,115 @@
+---
+object: card
+id: 8b41b86b-58e1-4601-b8ed-0ad31f03a78d
+oracle_id: 819fc966-434e-470f-91e9-a38df974ad17
+multiverse_ids:
+- 249717
+mtgo_id: 45314
+mtgo_foil_id: 45315
+tcgplayer_id: 59830
+cardmarket_id: 256799
+name: Drowned Catacomb
+lang: en
+released_at: '2012-07-13'
+uri: https://api.scryfall.com/cards/8b41b86b-58e1-4601-b8ed-0ad31f03a78d
+scryfall_uri: https://scryfall.com/card/m13/223/drowned-catacomb?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.jpg?1562556778
+  normal: https://cards.scryfall.io/normal/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.jpg?1562556778
+  large: https://cards.scryfall.io/large/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.jpg?1562556778
+  png: https://cards.scryfall.io/png/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.png?1562556778
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.jpg?1562556778
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8b41b86b-58e1-4601-b8ed-0ad31f03a78d.jpg?1562556778
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+  {T}: Add {U} or {B}.
+colors: []
+color_identity:
+- B
+- U
+keywords: []
+produced_mana:
+- B
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set: m13
+set_name: Magic 2013
+set_type: core
+set_uri: https://api.scryfall.com/sets/f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8b41b86b-58e1-4601-b8ed-0ad31f03a78d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A819fc966-434e-470f-91e9-a38df974ad17&unique=prints
+collector_number: '223'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Kendall
+artist_ids:
+- 8a5540a8-18c9-4fa9-802c-59d6866114d5
+illustration_id: 309886c7-070b-4409-8622-860c347a7529
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 157
+penny_rank: 42
+prices:
+  usd: '3.03'
+  usd_foil: '8.69'
+  usd_etched: 
+  eur: '2.50'
+  eur_foil: '7.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249717
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drowned+Catacomb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drowned+Catacomb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drowned+Catacomb
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59830?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drowned+Catacomb&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/45314?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: ab454fb8-347f-4d4d-84bb-195c9d51b06b
+oracle_id: ad44cf74-b717-48fb-9fa2-77512024d76a
+multiverse_ids:
+- 260980
+mtgo_id: 45242
+mtgo_foil_id: 45243
+tcgplayer_id: 59971
+cardmarket_id: 257069
+name: Mind Rot
+lang: en
+released_at: '2012-07-13'
+uri: https://api.scryfall.com/cards/ab454fb8-347f-4d4d-84bb-195c9d51b06b
+scryfall_uri: https://scryfall.com/card/m13/100/mind-rot?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.jpg?1562558476
+  normal: https://cards.scryfall.io/normal/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.jpg?1562558476
+  large: https://cards.scryfall.io/large/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.jpg?1562558476
+  png: https://cards.scryfall.io/png/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.png?1562558476
+  art_crop: https://cards.scryfall.io/art_crop/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.jpg?1562558476
+  border_crop: https://cards.scryfall.io/border_crop/front/a/b/ab454fb8-347f-4d4d-84bb-195c9d51b06b.jpg?1562558476
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Target player discards two cards.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set: m13
+set_name: Magic 2013
+set_type: core
+set_uri: https://api.scryfall.com/sets/f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ab454fb8-347f-4d4d-84bb-195c9d51b06b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad44cf74-b717-48fb-9fa2-77512024d76a&unique=prints
+collector_number: '100'
+digital: false
+rarity: common
+flavor_text: |-
+  "What a pity. You should have written it down."
+  —Liliana Vess
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Luke
+artist_ids:
+- e2b0133e-a28d-45d1-8843-26285b41d61d
+illustration_id: 9756e56a-421c-4566-ad10-b64de3e7c06b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9930
+penny_rank: 6589
+prices:
+  usd: '0.06'
+  usd_foil: '0.10'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.09'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=260980
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mind+Rot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mind+Rot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mind+Rot
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/59971?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mind+Rot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/45242?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
